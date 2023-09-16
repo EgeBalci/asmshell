@@ -4,9 +4,9 @@ import (
     "strings"
     "os/exec"
     "io/ioutil"
-    "github.com/EgeBalci/ishell"
+    "github.com/poppycompass/ishell"
     "github.com/chzyer/readline"
-    "github.com/EgeBalci/asmshell/go/arch"
+    "github.com/EgeBalci/asmshell/arch"
 )
 
 // ishell settings

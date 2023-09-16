@@ -1,4 +1,4 @@
-// go test "github.com/EgeBalci/asmshell/go/arch"
+// go test "github.com/EgeBalci/asmshell/arch"
 package arch
 
 import (

@@ -3,8 +3,8 @@ package arch
 import (
     "fmt"
     "strings"
-    "github.com/EgeBalci/ishell"
-    "github.com/EgeBalci/asmshell/go/utils"
+    "github.com/poppycompass/ishell"
+    "github.com/EgeBalci/asmshell/utils"
     "github.com/keystone-engine/keystone/bindings/go/keystone"
     "github.com/unicorn-engine/unicorn/bindings/go/unicorn"
     "github.com/bnagy/gapstone"

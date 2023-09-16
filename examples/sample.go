@@ -2,7 +2,7 @@ package main
 
 import (
         "fmt"
-        "github.com/EgeBalci/asmshell/go/arch"
+        "github.com/EgeBalci/asmshell/arch"
        )
 
 func test_run(mc arch.Machine) error {
