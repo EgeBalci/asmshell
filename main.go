@@ -5,9 +5,9 @@ package main
 import (
     "fmt"
     "github.com/jessevdk/go-flags"
-    "github.com/poppycompass/ishell"
-    "github.com/poppycompass/asmshell/go/arch"
-    "github.com/poppycompass/asmshell/go/utils"
+    "github.com/EgeBalci/ishell"
+    "github.com/EgeBalci/asmshell/go/arch"
+    "github.com/EgeBalci/asmshell/go/utils"
 )
 
 type options struct {
